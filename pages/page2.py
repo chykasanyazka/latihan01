@@ -1,4 +1,4 @@
-import stramlit as st
+import streamlit as st
 import plotly.express as px
 import numpy as np
 import matplotlib.pyplot as plt
@@ -13,3 +13,4 @@ fig, ax = plt.subplots()
 ax.plot(x, y)
 # Display the plot
 st.pyplot(fig)
+
