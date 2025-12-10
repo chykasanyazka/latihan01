@@ -1,0 +1,201 @@
+Transaction_ID;Menu;Harga;Lokasi;Metode_Pembayaran;Waktu
+1;Americano;18000;Bandung;Debit;2024-01-02 05:22:00
+2;Caramel Macchiato;28000;Jakarta;Cash;2024-01-16 01:49:00
+3;Caramel Macchiato;28000;Bandung;Dana;2024-01-04 09:45:00
+4;Americano;18000;Makassar;ShopeePay;2024-01-01 16:04:00
+5;Caramel Macchiato;28000;Makassar;Dana;2024-01-16 09:22:00
+6;Americano;18000;Makassar;Dana;2024-01-04 13:29:00
+7;Thai Tea;20000;Medan;Cash;2024-01-08 08:16:00
+8;Hazelnut Latte;27000;Medan;Debit;2024-01-03 14:05:00
+9;Hazelnut Latte;27000;Denpasar;ShopeePay;2024-01-08 19:33:00
+10;Kopi Kenangan Mantan;22000;Medan;OVO;2024-01-28 04:11:00
+11;Kopi Kenangan Mantan;22000;Makassar;GoPay;2024-01-11 20:34:00
+12;Hazelnut Latte;27000;Medan;Debit;2024-01-21 14:05:00
+13;Americano;18000;Jakarta;ShopeePay;2024-01-04 21:26:00
+14;Americano;18000;Surabaya;Dana;2024-02-04 04:17:00
+15;Chocolate;23000;Medan;GoPay;2024-01-06 09:37:00
+16;Caramel Macchiato;28000;Yogyakarta;GoPay;2024-01-24 14:16:00
+17;Thai Tea;20000;Medan;ShopeePay;2024-01-11 05:31:00
+18;Caffe Latte;25000;Surabaya;OVO;2024-01-06 06:33:00
+19;Matcha Latte;26000;Surabaya;Debit;2024-01-23 11:39:00
+20;Caramel Macchiato;28000;Jakarta;Debit;2024-01-19 13:24:00
+21;Caffe Latte;25000;Denpasar;Cash;2024-01-08 11:57:00
+22;Chocolate;23000;Jakarta;ShopeePay;2024-01-14 10:24:00
+23;Chocolate;23000;Jakarta;OVO;2024-01-28 01:43:00
+24;Caffe Latte;25000;Medan;Cash;2024-02-02 10:36:00
+25;Brown Sugar Latte;24000;Yogyakarta;Cash;2024-01-12 10:15:00
+26;Hazelnut Latte;27000;Surabaya;ShopeePay;2024-01-20 08:03:00
+27;Brown Sugar Latte;24000;Semarang;OVO;2024-01-02 16:28:00
+28;Matcha Latte;26000;Makassar;Debit;2024-01-05 15:51:00
+29;Caramel Macchiato;28000;Semarang;Debit;2024-02-02 14:28:00
+30;Vanilla Latte;26000;Bandung;Cash;2024-01-06 20:18:00
+31;Caffe Latte;25000;Semarang;GoPay;2024-01-11 12:17:00
+32;Hazelnut Latte;27000;Makassar;Dana;2024-02-02 22:50:00
+33;Brown Sugar Latte;24000;Bandung;Dana;2024-01-06 21:28:00
+34;Vanilla Latte;26000;Medan;Dana;2024-01-28 15:48:00
+35;Kopi Kenangan Mantan;22000;Yogyakarta;Debit;2024-01-31 09:18:00
+36;Caffe Latte;25000;Denpasar;GoPay;2024-02-04 02:27:00
+37;Caffe Latte;25000;Bandung;ShopeePay;2024-01-09 20:22:00
+38;Brown Sugar Latte;24000;Makassar;Cash;2024-01-09 17:20:00
+39;Hazelnut Latte;27000;Jakarta;OVO;2024-01-31 11:01:00
+40;Caffe Latte;25000;Makassar;Debit;2024-01-16 21:52:00
+41;Caramel Macchiato;28000;Semarang;GoPay;2024-01-27 09:21:00
+42;Americano;18000;Denpasar;ShopeePay;2024-01-22 08:01:00
+43;Thai Tea;20000;Surabaya;OVO;2024-01-13 15:56:00
+44;Vanilla Latte;26000;Jakarta;ShopeePay;2024-01-28 15:28:00
+45;Hazelnut Latte;27000;Bandung;Debit;2024-01-28 02:50:00
+46;Thai Tea;20000;Jakarta;GoPay;2024-01-08 01:47:00
+47;Thai Tea;20000;Denpasar;OVO;2024-01-16 06:45:00
+48;Chocolate;23000;Bandung;Debit;2024-02-03 07:10:00
+49;Chocolate;23000;Makassar;Cash;2024-01-11 23:29:00
+50;Vanilla Latte;26000;Bandung;Debit;2024-01-11 09:05:00
+51;Americano;18000;Surabaya;Dana;2024-01-19 08:49:00
+52;Hazelnut Latte;27000;Yogyakarta;Debit;2024-01-01 18:31:00
+53;Matcha Latte;26000;Surabaya;OVO;2024-01-04 18:08:00
+54;Caramel Macchiato;28000;Bandung;Cash;2024-01-15 03:01:00
+55;Kopi Kenangan Mantan;22000;Makassar;GoPay;2024-01-08 06:43:00
+56;Vanilla Latte;26000;Bandung;Cash;2024-01-08 04:00:00
+57;Brown Sugar Latte;24000;Bandung;ShopeePay;2024-01-20 08:49:00
+58;Brown Sugar Latte;24000;Jakarta;ShopeePay;2024-01-29 08:20:00
+59;Kopi Kenangan Mantan;22000;Medan;ShopeePay;2024-01-19 03:51:00
+60;Brown Sugar Latte;24000;Bandung;ShopeePay;2024-01-10 02:14:00
+61;Matcha Latte;26000;Makassar;Cash;2024-01-13 05:12:00
+62;Caffe Latte;25000;Denpasar;OVO;2024-01-19 05:57:00
+63;Vanilla Latte;26000;Denpasar;ShopeePay;2024-01-26 14:36:00
+64;Brown Sugar Latte;24000;Medan;OVO;2024-01-23 13:31:00
+65;Caffe Latte;25000;Jakarta;ShopeePay;2024-01-25 17:35:00
+66;Caramel Macchiato;28000;Semarang;OVO;2024-01-02 15:57:00
+67;Caffe Latte;25000;Yogyakarta;OVO;2024-01-21 20:23:00
+68;Vanilla Latte;26000;Medan;OVO;2024-01-14 02:35:00
+69;Vanilla Latte;26000;Surabaya;OVO;2024-02-01 07:39:00
+70;Vanilla Latte;26000;Bandung;OVO;2024-01-22 12:30:00
+71;Thai Tea;20000;Surabaya;Dana;2024-01-23 10:56:00
+72;Caramel Macchiato;28000;Bandung;ShopeePay;2024-01-30 09:58:00
+73;Chocolate;23000;Bandung;OVO;2024-01-09 13:50:00
+74;Kopi Kenangan Mantan;22000;Bandung;GoPay;2024-02-04 09:11:00
+75;Caffe Latte;25000;Makassar;Dana;2024-01-26 17:47:00
+76;Americano;18000;Denpasar;Debit;2024-02-02 10:34:00
+77;Caffe Latte;25000;Bandung;Cash;2024-01-13 23:17:00
+78;Thai Tea;20000;Makassar;OVO;2024-01-18 07:42:00
+79;Matcha Latte;26000;Makassar;GoPay;2024-01-03 07:21:00
+80;Thai Tea;20000;Medan;GoPay;2024-01-15 12:20:00
+81;Matcha Latte;26000;Bandung;OVO;2024-01-25 12:31:00
+82;Americano;18000;Makassar;OVO;2024-01-11 17:59:00
+83;Vanilla Latte;26000;Semarang;ShopeePay;2024-01-29 21:52:00
+84;Americano;18000;Surabaya;OVO;2024-01-20 13:53:00
+85;Matcha Latte;26000;Medan;Debit;2024-01-24 07:38:00
+86;Kopi Kenangan Mantan;22000;Makassar;ShopeePay;2024-01-02 00:55:00
+87;Kopi Kenangan Mantan;22000;Semarang;GoPay;2024-01-14 16:00:00
+88;Vanilla Latte;26000;Makassar;Dana;2024-01-31 12:50:00
+89;Brown Sugar Latte;24000;Jakarta;Debit;2024-01-04 18:29:00
+90;Hazelnut Latte;27000;Bandung;Cash;2024-01-08 21:41:00
+91;Kopi Kenangan Mantan;22000;Jakarta;Dana;2024-01-28 19:42:00
+92;Americano;18000;Semarang;Cash;2024-01-20 01:37:00
+93;Matcha Latte;26000;Makassar;OVO;2024-01-12 20:29:00
+94;Vanilla Latte;26000;Semarang;OVO;2024-01-08 19:02:00
+95;Chocolate;23000;Yogyakarta;OVO;2024-02-03 04:49:00
+96;Americano;18000;Surabaya;OVO;2024-01-15 08:11:00
+97;Kopi Kenangan Mantan;22000;Bandung;Debit;2024-02-02 21:29:00
+98;Caffe Latte;25000;Yogyakarta;Cash;2024-01-23 02:36:00
+99;Chocolate;23000;Denpasar;GoPay;2024-02-01 11:18:00
+100;Brown Sugar Latte;24000;Medan;GoPay;2024-01-22 21:42:00
+101;Vanilla Latte;26000;Jakarta;Cash;2024-01-14 15:06:00
+102;Caffe Latte;25000;Medan;Dana;2024-01-16 01:56:00
+103;Thai Tea;20000;Surabaya;Dana;2024-02-01 02:26:00
+104;Kopi Kenangan Mantan;22000;Semarang;OVO;2024-01-12 11:47:00
+105;Caramel Macchiato;28000;Medan;GoPay;2024-01-20 13:41:00
+106;Vanilla Latte;26000;Yogyakarta;Cash;2024-01-27 23:46:00
+107;Kopi Kenangan Mantan;22000;Denpasar;OVO;2024-01-07 08:26:00
+108;Vanilla Latte;26000;Medan;Dana;2024-02-01 16:47:00
+109;Vanilla Latte;26000;Bandung;Dana;2024-01-10 21:33:00
+110;Hazelnut Latte;27000;Jakarta;OVO;2024-01-20 09:50:00
+111;Americano;18000;Yogyakarta;OVO;2024-01-06 06:22:00
+112;Thai Tea;20000;Medan;ShopeePay;2024-01-25 02:11:00
+113;Americano;18000;Yogyakarta;OVO;2024-01-23 22:58:00
+114;Chocolate;23000;Medan;Debit;2024-01-09 19:59:00
+115;Chocolate;23000;Makassar;Dana;2024-02-03 01:05:00
+116;Brown Sugar Latte;24000;Denpasar;GoPay;2024-01-24 03:12:00
+117;Hazelnut Latte;27000;Jakarta;GoPay;2024-01-08 01:14:00
+118;Thai Tea;20000;Denpasar;GoPay;2024-02-04 08:52:00
+119;Brown Sugar Latte;24000;Medan;OVO;2024-01-16 23:15:00
+120;Caffe Latte;25000;Semarang;OVO;2024-02-01 13:11:00
+121;Caffe Latte;25000;Surabaya;GoPay;2024-01-28 08:46:00
+122;Americano;18000;Semarang;ShopeePay;2024-01-23 03:15:00
+123;Chocolate;23000;Jakarta;Cash;2024-01-21 21:50:00
+124;Matcha Latte;26000;Semarang;ShopeePay;2024-01-28 09:43:00
+125;Caffe Latte;25000;Denpasar;ShopeePay;2024-01-12 10:08:00
+126;Americano;18000;Denpasar;Debit;2024-01-10 20:44:00
+127;Vanilla Latte;26000;Surabaya;OVO;2024-02-01 09:21:00
+128;Matcha Latte;26000;Surabaya;GoPay;2024-01-13 14:56:00
+129;Matcha Latte;26000;Bandung;Cash;2024-01-25 03:51:00
+130;Matcha Latte;26000;Yogyakarta;Dana;2024-01-20 05:50:00
+131;Brown Sugar Latte;24000;Makassar;Debit;2024-01-10 03:46:00
+132;Hazelnut Latte;27000;Jakarta;OVO;2024-01-13 18:05:00
+133;Vanilla Latte;26000;Yogyakarta;Debit;2024-01-01 09:02:00
+134;Caffe Latte;25000;Yogyakarta;ShopeePay;2024-01-06 04:53:00
+135;Caffe Latte;25000;Surabaya;Dana;2024-01-24 18:10:00
+136;Brown Sugar Latte;24000;Semarang;OVO;2024-02-04 23:00:00
+137;Hazelnut Latte;27000;Medan;ShopeePay;2024-01-28 11:01:00
+138;Caramel Macchiato;28000;Medan;OVO;2024-01-26 20:03:00
+139;Brown Sugar Latte;24000;Denpasar;Dana;2024-01-18 22:30:00
+140;Chocolate;23000;Makassar;Dana;2024-01-18 16:34:00
+141;Matcha Latte;26000;Jakarta;ShopeePay;2024-01-07 00:06:00
+142;Caffe Latte;25000;Yogyakarta;Cash;2024-02-02 07:27:00
+143;Kopi Kenangan Mantan;22000;Medan;GoPay;2024-01-09 01:25:00
+144;Hazelnut Latte;27000;Denpasar;GoPay;2024-01-13 18:58:00
+145;Americano;18000;Jakarta;ShopeePay;2024-01-23 19:49:00
+146;Americano;18000;Bandung;GoPay;2024-01-28 05:11:00
+147;Vanilla Latte;26000;Yogyakarta;OVO;2024-01-12 04:32:00
+148;Matcha Latte;26000;Bandung;ShopeePay;2024-01-30 13:36:00
+149;Americano;18000;Bandung;OVO;2024-01-22 04:10:00
+150;Matcha Latte;26000;Bandung;OVO;2024-01-11 23:12:00
+151;Hazelnut Latte;27000;Medan;ShopeePay;2024-01-21 05:08:00
+152;Caffe Latte;25000;Jakarta;OVO;2024-01-21 19:58:00
+153;Brown Sugar Latte;24000;Bandung;ShopeePay;2024-01-24 16:10:00
+154;Hazelnut Latte;27000;Semarang;GoPay;2024-01-16 17:26:00
+155;Brown Sugar Latte;24000;Denpasar;ShopeePay;2024-02-01 14:05:00
+156;Brown Sugar Latte;24000;Medan;OVO;2024-01-25 11:17:00
+157;Matcha Latte;26000;Surabaya;Debit;2024-01-13 08:10:00
+158;Caramel Macchiato;28000;Medan;Dana;2024-01-10 13:04:00
+159;Matcha Latte;26000;Medan;GoPay;2024-01-12 17:16:00
+160;Kopi Kenangan Mantan;22000;Bandung;ShopeePay;2024-01-22 02:52:00
+161;Chocolate;23000;Bandung;ShopeePay;2024-01-20 09:09:00
+162;Caffe Latte;25000;Denpasar;Cash;2024-01-17 14:02:00
+163;Vanilla Latte;26000;Semarang;Debit;2024-01-20 21:52:00
+164;Chocolate;23000;Yogyakarta;Debit;2024-01-25 00:46:00
+165;Matcha Latte;26000;Medan;Dana;2024-01-21 03:10:00
+166;Kopi Kenangan Mantan;22000;Medan;OVO;2024-01-13 02:09:00
+167;Matcha Latte;26000;Bandung;Cash;2024-01-20 11:20:00
+168;Caramel Macchiato;28000;Surabaya;Dana;2024-01-23 14:17:00
+169;Kopi Kenangan Mantan;22000;Bandung;OVO;2024-01-04 01:34:00
+170;Caffe Latte;25000;Denpasar;ShopeePay;2024-02-01 21:19:00
+171;Brown Sugar Latte;24000;Jakarta;Debit;2024-01-29 20:42:00
+172;Caffe Latte;25000;Medan;ShopeePay;2024-01-03 11:00:00
+173;Hazelnut Latte;27000;Bandung;Dana;2024-01-31 13:38:00
+174;Brown Sugar Latte;24000;Surabaya;Dana;2024-01-08 15:27:00
+175;Caffe Latte;25000;Semarang;Dana;2024-01-15 15:58:00
+176;Hazelnut Latte;27000;Semarang;Cash;2024-02-02 20:28:00
+177;Vanilla Latte;26000;Surabaya;Debit;2024-01-28 14:28:00
+178;Thai Tea;20000;Surabaya;GoPay;2024-01-08 03:24:00
+179;Matcha Latte;26000;Semarang;Debit;2024-01-06 04:26:00
+180;Thai Tea;20000;Medan;Dana;2024-01-18 16:19:00
+181;Americano;18000;Surabaya;OVO;2024-02-04 18:27:00
+182;Americano;18000;Medan;OVO;2024-01-17 05:20:00
+183;Caffe Latte;25000;Makassar;GoPay;2024-01-10 05:07:00
+184;Caffe Latte;25000;Yogyakarta;GoPay;2024-01-18 01:47:00
+185;Matcha Latte;26000;Medan;OVO;2024-01-16 20:42:00
+186;Caffe Latte;25000;Medan;Cash;2024-01-02 17:13:00
+187;Vanilla Latte;26000;Denpasar;ShopeePay;2024-02-04 22:51:00
+188;Hazelnut Latte;27000;Yogyakarta;Cash;2024-01-21 08:01:00
+189;Americano;18000;Denpasar;ShopeePay;2024-01-01 11:25:00
+190;Matcha Latte;26000;Medan;Dana;2024-01-10 17:29:00
+191;Vanilla Latte;26000;Medan;Dana;2024-01-25 15:45:00
+192;Caffe Latte;25000;Denpasar;ShopeePay;2024-01-22 12:47:00
+193;Hazelnut Latte;27000;Medan;Debit;2024-01-17 17:45:00
+194;Chocolate;23000;Medan;GoPay;2024-01-17 01:30:00
+195;Caramel Macchiato;28000;Bandung;Cash;2024-01-30 21:13:00
+196;Americano;18000;Bandung;Cash;2024-01-06 18:17:00
+197;Hazelnut Latte;27000;Semarang;ShopeePay;2024-01-21 08:55:00
+198;Kopi Kenangan Mantan;22000;Bandung;GoPay;2024-01-16 12:28:00
+199;Matcha Latte;26000;Semarang;OVO;2024-01-24 20:18:00
+200;Americano;18000;Semarang;OVO;2024-01-16 23:06:00
